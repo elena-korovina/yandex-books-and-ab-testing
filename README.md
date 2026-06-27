@@ -24,7 +24,6 @@ The project combines SQL-based data extraction and Python statistical analysis.
 - `sql/` — SQL scripts used for data extraction and aggregation
 - `notebooks/` — Python analysis and statistical testing
 - `images/` — visualizations used in analysis
-- `data_description/` — dataset documentation
 
 ---
 
